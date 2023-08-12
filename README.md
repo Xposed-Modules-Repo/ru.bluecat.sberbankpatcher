@@ -42,7 +42,7 @@
 - При первичном старте а так же при обновлениях будет долго думать на старте, не прерывайте его потом будет нормально заходить, модулю необходимо выполнить сканирование кода.
 
 ### Telegram:
-[Канал](https://t.me/+TfQezz2RmU9ytDvd) или [Группа](https://t.me/+R3l9_pG2ZeTca7rs)
+[Канал](https://t.me/sberbank_patcher) или [Группа](https://t.me/sberbank_patcher_forum)
 
 ## For non-Russian users:
 This is a module for the russian banking application Sberbank, you don't need to use it, target app working only in Russia. This module has support only for the Russian language.
