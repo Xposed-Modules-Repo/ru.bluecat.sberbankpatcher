@@ -1,5 +1,5 @@
 # Sberbank Patcher
-Различные модификации в приложении СберБанк
+Различные модификации в приложении [СберБанк](https://apps.sber.ru/apps/sberbank-online/)
 
 ### Контролируемый функционал:
 - Антивирус Касперского
@@ -36,7 +36,7 @@
 
 ### Требования:
 - Android 7.0+
-- Установленное приложение Сбербанк
+- Установленное приложение [Сбербанк](https://apps.sber.ru/apps/sberbank-online/)
 
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса Сбербанка и манипуляции с логами push сообщений.
@@ -46,4 +46,4 @@
 [Канал](https://t.me/sberbank_patcher) или [Группа](https://t.me/sberbank_patcher_forum)
 
 ## For non-Russian users:
-This is a module for the russian banking application Sberbank, you don't need to use it, target app working only in Russia. This module has support only for the Russian language.
+This is a module for the russian banking application [Sberbank](https://apps.sber.ru/apps/sberbank-online/), you don't need to use it, app working only in Russia. This module has support only for the Russian language.
