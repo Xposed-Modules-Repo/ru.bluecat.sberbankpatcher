@@ -52,8 +52,7 @@
 - Установленное приложение [Сбербанк](https://apps.rustore.ru/app/ru.sberbankmobile)
 
 ### Обратите внимание:
-- Модульная часть использует рут возможности для завершения процесса Сбербанка и манипуляции с логами push сообщений.
-- При первичном старте а так же при обновлениях будет долго думать на старте, не прерывайте его потом будет нормально заходить, модулю необходимо выполнить сканирование кода.
+- Модульная часть использует рут возможности для завершения процесса и работой с файлами в личной папке Сбербанка.
 
 ## For non-Russian users:
 This is a module for the russian banking application [Sberbank](https://apps.rustore.ru/app/ru.sberbankmobile), you don't need to use it, app working only in Russia. This module has support only for the Russian language.
