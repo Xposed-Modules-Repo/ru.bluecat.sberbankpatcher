@@ -55,4 +55,4 @@
 - Модульная часть использует рут возможности для завершения процесса и работой с файлами в личной папке Сбербанка.
 
 ## For non-Russian users:
-This is a module for the russian banking application [Sberbank](https://apps.rustore.ru/app/ru.sberbankmobile), you don't need to use it, app working only in Russia. This module has support only for the Russian language.
+This is a module for the russian banking application [Sberbank](https://apps.rustore.ru/app/ru.sberbankmobile). You don't need to use it, app working only in Russia. This module has support only for the Russian language.
