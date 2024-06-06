@@ -26,7 +26,7 @@
 - Информационные и обучаемые карточки
 - Подсказки при переводах
 - Профиль. Что нового
-- Поиск. Скрытие предложений
+- Поиск. Скрытие предложений и каналов
 - Карты. СберСпасибо
 - История. Очистка истории транзакций от рекламы
 - Push. Глушение информационно-рекламного канала
@@ -56,6 +56,7 @@
 
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса и работой с файлами в личной папке Сбербанка.
+- Модуль имеет возможность работать в режиме [LSPatch](https://github.com/LSPosed/LSPatch), требуются некоторые подготовительные процессы, подробнее смотрите в telegram канале.
 
 ## For non-Russian users:
 This is a module for the russian banking application [Sberbank](https://apps.rustore.ru/app/ru.sberbankmobile). You don't need to use it, app working only in Russia. This module has support only for the Russian language.
