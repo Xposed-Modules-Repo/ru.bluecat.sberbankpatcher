@@ -8,7 +8,7 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/sberbank_patcher_forum)
 [![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=123542189)
 
-<p>Различные модификации в приложении <a href="https://apps.rustore.ru/app/ru.sberbankmobile">СберБанк</a></p>
+<p>Различные модификации в приложении <a href="https://www.rustore.ru/catalog/app/ru.sberbankmobile">СберБанк</a></p>
 </div>
 
 ### Контролируемый функционал:
@@ -52,11 +52,11 @@
 
 ### Требования:
 - Android 7.0+
-- Установленное приложение [Сбербанк](https://apps.rustore.ru/app/ru.sberbankmobile)
+- Установленное приложение [Сбербанк](https://www.rustore.ru/catalog/app/ru.sberbankmobile)
 
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса и работой с файлами в личной папке Сбербанка.
 - Модуль имеет возможность работать в режиме [LSPatch](https://github.com/LSPosed/LSPatch), требуются некоторые подготовительные процессы, подробнее смотрите в telegram канале.
 
 ## For non-Russian users:
-This is a module for the russian banking application [Sberbank](https://apps.rustore.ru/app/ru.sberbankmobile). You don't need to use it, app working only in Russia. This module has support only for the Russian language.
+This is a module for the russian banking application [Sberbank](https://www.rustore.ru/catalog/app/ru.sberbankmobile). You don't need to use it, app working only in Russia. This module has support only for the Russian language.
