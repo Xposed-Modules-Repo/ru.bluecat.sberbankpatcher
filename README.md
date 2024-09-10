@@ -4,8 +4,8 @@
 ![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher/total)
 [![GitHub release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher/releases)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/sberbank_patcher)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/sberbank_patcher_forum)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/lsposed_workshop_forum)
 [![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=123542189)
 
 <p>Различные модификации в приложении <a href="https://www.rustore.ru/catalog/app/ru.sberbankmobile">СберБанк</a></p>
@@ -14,7 +14,6 @@
 ### Контролируемый функционал:
 - Антивирус Касперского
 - Система самообновления
-- Удержание экрана карты лояльности
 - Аналитика
 - Ориентация
 - Номер по умолчанию для СБП переводов
@@ -47,7 +46,6 @@
 ### Аналитика:
 - Внутренняя аналитика
 - Firebase Analytics
-- Dynatrace
 - Яндекс метрика
 
 ### Требования:
