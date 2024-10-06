@@ -46,15 +46,14 @@
 ### Аналитика:
 - Внутренняя аналитика
 - Firebase Analytics
-- Яндекс метрика
 
 ### Требования:
-- Android 7.0+
+- Android 8.0+
 - Установленное приложение [Сбербанк](https://www.rustore.ru/catalog/app/ru.sberbankmobile)
 
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса и работой с файлами в личной папке Сбербанка.
-- Модуль имеет возможность работать в режиме [LSPatch](https://github.com/LSPosed/LSPatch), требуются некоторые подготовительные процессы, подробнее смотрите в telegram канале.
+- Модуль имеет возможность работать в режиме [LSPatch](https://github.com/JingMatrix/LSPatch), требуются некоторые подготовительные процессы, подробнее смотрите в telegram канале.
 
 ## For non-Russian users:
 This is a module for the russian banking application [Sberbank](https://www.rustore.ru/catalog/app/ru.sberbankmobile). You don't need to use it, app working only in Russia. This module has support only for the Russian language.
