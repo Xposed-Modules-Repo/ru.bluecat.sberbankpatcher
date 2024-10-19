@@ -7,6 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/lsposed_workshop_forum)
 [![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=123542189)
+[![Donate](https://img.shields.io/badge/Donate_Form-blue)](https://pay.cloudtips.ru/p/85f8cf00)
 
 <p>Различные модификации в приложении <a href="https://www.rustore.ru/catalog/app/ru.sberbankmobile">СберБанк</a></p>
 </div>
